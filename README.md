@@ -1,3 +1,3 @@
 # commclassroomOP
 
-Kunal Kushwaha learing github amazing..
+it's a an amazing course for anyone who wants to get started with it 
